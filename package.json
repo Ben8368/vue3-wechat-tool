@@ -22,7 +22,7 @@
     "jszip": "^3.10.1",
     "mitt": "^3.0.1",
     "pinia": "^2.1.6",
-    "pinia-plugin-persistedstate": "^4.4.1",
+    "pinia-plugin-persistedstate": "^1.0.0"
     "vue": "^3.3.4",
     "vue-advanced-cropper": "^2.8.8",
     "vue3-perfect-scrollbar": "^1.6.1"
