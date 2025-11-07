@@ -16,7 +16,7 @@ export default defineConfig(({ mode }) => {
     base: VITE_BASE_PATH,
     server: {
       host: "localhost",
-      open: true,
+      open: false,// 非桌面设备编译这里要把true改成false
       port: 9527,
     },
     build: {
